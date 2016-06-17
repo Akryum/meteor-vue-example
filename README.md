@@ -2,7 +2,7 @@
 
 A simple meteor project featuring [vue](https://vuejs.org/) as ui layer ([more info](https://github.com/Akryum/meteor-vue-component)).
 
-## Steps to produce
+## Steps to reproduce
 
 In the console, create the project and add the relevant packages:
 
