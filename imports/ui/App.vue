@@ -15,7 +15,7 @@ Session.setDefault("counter", 0);
 
 let labels = ['Click me!', 'Click me again!', 'Here! Click here!', 'Again! Again!',
 'Don\'t click me! No, I\'m just kidding. You can.', 'You like that?',
-'Can you stratchme in the back please?', 'You are soooo nice! Click!',
+'Can you stratch me in the back please?', 'You are soooo nice! Click!',
 'Hmmmm...', 'You know, you are wasting time clicking me.',
 'No really, you can click me as much as you want.', 'Click me to level up!'];
 
