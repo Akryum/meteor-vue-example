@@ -47,7 +47,7 @@ Meteor.startup(() => {
 });
 ```
 
-Create Vue components in `.vue` files. Component files ending with `.global.vue` outside of the `imports` directory will automatically registered with `Vue.component` ([more info](https://github.com/Akryum/meteor-vue-component/tree/master/packages/vue-component#global-vue-components)). Or you can import your single-file components with an `import` statement ([more info](https://github.com/Akryum/meteor-vue-component/tree/master/packages/vue-component#manual-import)). When you save them, your components will be instantly hot-reloaded in your browser.
+Create Vue components in `.vue` files. Component files outside of the `imports` directory will automatically registered with `Vue.component` ([more info](https://github.com/Akryum/meteor-vue-component/tree/master/packages/vue-component#global-vue-components)). Or you can import your single-file components with an `import` statement ([more info](https://github.com/Akryum/meteor-vue-component/tree/master/packages/vue-component#manual-import)). When you save them, your components will be instantly hot-reloaded in your browser.
 
 You can add more languages in your single-file components, see [here](https://github.com/Akryum/meteor-vue-component/tree/master/packages/vue-component#language-packages).
 
