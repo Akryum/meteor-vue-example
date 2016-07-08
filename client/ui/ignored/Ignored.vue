@@ -1,7 +1,7 @@
 <template>
 <div>
   <div>
-    You should see this
+    You should not see this
   </div>
   <div>
     <slot></slot>
