@@ -8,6 +8,7 @@
     "meteor-node-stubs": "~0.2.0"
   },
   "devDependencies": {
+    "keen-ui": "^0.8.8",
     "vue": "^1.0.24"
   }
 }

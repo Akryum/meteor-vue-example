@@ -5,6 +5,10 @@
     You pressed the button {{count}} times.
   </p>
   <my-button :label="buttonLabel" @click="addOne"></my-button>
+
+  <hr/>
+
+  <test></test>
 </div>
 </template>
 

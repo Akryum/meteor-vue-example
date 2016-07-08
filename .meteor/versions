@@ -1,8 +1,9 @@
 akryum:npm-check@0.0.3
 akryum:vue@1.0.3
-akryum:vue-component@0.5.0
-akryum:vue-component-dev-client@0.0.4
+akryum:vue-component@0.6.0
+akryum:vue-component-dev-client@0.0.6
 akryum:vue-component-dev-server@0.0.1
+akryum:vue-stylus@0.0.1
 allow-deny@1.0.5
 autopublish@1.0.7
 autoupdate@1.2.10
