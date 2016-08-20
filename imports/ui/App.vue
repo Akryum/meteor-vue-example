@@ -1,10 +1,13 @@
 <template>
 <div class="app">
-  <h1>Vue Meteor simple example</h1>
+  <h1>Simple Meteor example using Vue</h1>
   <p>
     You pressed the button {{count}} times.
   </p>
   <my-button :label="buttonLabel" @click="addOne"></my-button>
+  <p>
+    Learn more about the vue integration <a href="https://github.com/Akryum/meteor-vue-component">on GitHub</a>.
+  </p>
 </div>
 </template>
 
@@ -42,3 +45,18 @@ export default {
   }
 }
 </script>
+
+<style>
+body {
+  margin: 30px;
+}
+
+a {
+  color: #40b883;
+  text-decoration: none;
+}
+
+h1 {
+  font-weight: normal;
+}
+</style>
