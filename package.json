@@ -5,9 +5,9 @@
     "start": "meteor run"
   },
   "dependencies": {
-    "meteor-node-stubs": "~0.2.0"
-  },
-  "devDependencies": {
-    "vue": "^1.0.24"
+    "babel-runtime": "^6.26.0",
+    "meteor-node-stubs": "~0.2.0",
+    "vue": "^2.4.2",
+    "vue-meteor-tracker": "^1.0.3"
   }
 }
