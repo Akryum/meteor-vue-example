@@ -53,4 +53,4 @@ You can add more languages in your single-file components, see [here](https://gi
 
 Inside your Vue components, you can use [Meteor tracker](https://github.com/Akryum/meteor-vue-component/tree/master/packages/vue#usage), [Apollo](https://github.com/Akryum/meteor-vue-component/tree/master/packages/vue-apollo#installation) or [a vuex store](https://github.com/Akryum/meteor-vue-component/tree/master/packages/vuex#installation).
 
-You can add a [routing system](https://github.com/Akryum/meteor-vue-component/tree/master/packages/vue-router#installation) and [localization](https://github.com/Akryum/meteor-vue-component/tree/master/packages/vue-i18n#installation).
+You can add a [routing system](https://github.com/meteor-vue/vue-meteor/tree/master/packages/vue-router2#installation) and [localization](https://github.com/Akryum/meteor-vue-component/tree/master/packages/vue-i18n#installation).
